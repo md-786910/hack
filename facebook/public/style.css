@@ -1,0 +1,9 @@
+input[type="text"]{
+   /* background-color: red;  */
+   width: 100%!important;
+   height: 3em!important;
+}
+::placeholder{
+    white-space: nowrap;
+
+}
